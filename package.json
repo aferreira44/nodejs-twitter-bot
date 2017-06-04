@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Nodejs Twitter Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aferreira44/nodejs-twitter-bot.git"
+  },
+  "author": "Andre Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aferreira44/nodejs-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/aferreira44/nodejs-twitter-bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
+}
